@@ -1,5 +1,6 @@
 # GitHub Action: 42Crunch REST API Static Security Testing
 
+
 The REST API Static Security Testing action locates REST API file contracts that follow the OpenAPI Specification (OAS, formerly known as Swagger) and runs thorough security checks on them. Both OAS v2 and v3 are supported, on both JSON and YAML format.
 
 You can use this action in the following scenarios:
